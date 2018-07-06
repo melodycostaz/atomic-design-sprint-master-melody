@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: space-around;
   text-align: center;
-  background: linear-gradient(-225deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.5) 40%), url(../../images/students.jpg);
+  background: linear-gradient(-225deg, rgba(0,0,0,0.1) 20%, rgba(0,0,0,0.5) 30%), url(../../images/gite.jpg);
   background-size: cover;
 }
 .banner-content {
@@ -12,11 +12,11 @@
 }
 .banner h1 {
   color: white;
-  font-size: 50px;
+  font-size: 80px;
 
 }
 .banner h2 {
-  font-family: "Open Sans";
+  font-family: "Cambria";
   color: rgba(255,255,255,0.8);
   font-size: 28px;
   font-weight: 300;
